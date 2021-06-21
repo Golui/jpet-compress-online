@@ -1,0 +1,3 @@
+[submodule "lib/ansu"]
+	path = lib/ansu
+	url = git@github.com:Golui/ansu.git
