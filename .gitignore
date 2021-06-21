@@ -7,10 +7,8 @@
 
 local/
 
-solution1.aps
-solution1.directive
+solution1.*
 solution1_data.json
-solution1.log
 
 .autopilot/
 .debug/
